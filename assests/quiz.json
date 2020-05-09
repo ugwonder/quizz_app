@@ -1,0 +1,74 @@
+[
+  {
+    "1": "Are you a happy person",
+    "2": "Did giving us this task make u happy",
+    "3": "Do you think I am angry at you for this task",
+    "4": "In the future will you give this type of task on time",
+    "5": "Do you have money to spare",
+    "6": "If you do, Will you do give away",
+    "7": "Yes!! You will do giveaway so we can buy panadol and beer",
+    "8": "ABEG NAA!! You will do it abi"
+  },
+
+  {
+    "1": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Maybe",
+      "d": "I dont know"
+    },
+    "2": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Maybe",
+      "d": "I dont know"
+    },
+    "3": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Maybe",
+      "d": "I dont care"
+    },
+    "4": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Maybe",
+      "d": "I dont know"
+    },
+    "5": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Maybe",
+      "d": "I dont know"
+    },
+    "6": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Maybe",
+      "d": "I dont know"
+    },
+    "7": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Maybe",
+      "d": "I dont know"
+    },
+    "8": {
+      "a": "Yes",
+      "b": "No",
+      "c": "Maybe",
+      "d": "I dont know"
+    }
+
+  },
+  {
+    "1": "Yes",
+    "2": "Yes",
+    "3": "I dont care",
+    "4": "No",
+    "5": "Yes",
+    "6": "No",
+    "7": "I dont Know",
+    "8": "NO"
+  }
+]
